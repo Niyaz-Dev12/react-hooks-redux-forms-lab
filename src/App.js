@@ -1,5 +1,5 @@
-import React from "react";
-import BandsContainer from "./features/bands/BandsContainer";
+import React from 'react';
+import BandsContainer from './features/bands/BandsContainer';
 
 function App() {
   return (
